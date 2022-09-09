@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">About Me App</string>
+    <string name="about_me">About Me</string>
+    <string name="star">Star</string>
+    <string name="dog">Hi, my name is Shobhit.\n\nMy favorite pet is a dog. I love dogs because they are friendly and cute. They are also loyal to their owners. But most of all, they can be a great friend when I am lonely. Dogs are wonderful pets.\n\nDogs are not only adorable; they are also loyal to their owners. When you are away, dogs are always on their best behavior and when you return, he or she will be excited to see you. You can trust dogs to not do their business in the house or on other people’s property if they are well trained. You can depend on your dog to keep you safe. Dogs have always been loyal to me.</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="done">Done</string>
+</resources>
