@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/menu_winner_menu.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/menu/winner_menu.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.android.navigation.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.android.navigation.app-main-36:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.android.navigation.app-main-36:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/drawable_android_category_simple.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/drawable/android_category_simple.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.android.navigation.app-main-36:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/layout_nav_header.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/drawable_trivia_rules.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/drawable/trivia_rules.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.navigation.app-main-36:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.navigation.app-main-36:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/drawable_you_win.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/drawable/you_win.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/layout_fragment_title.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/layout/fragment_title.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/drawable_nav_header.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/drawable/nav_header.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/layout_fragment_game.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/layout/fragment_game.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.android.navigation.app-main-36:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/anim_fade_out.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/anim/fade_out.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.android.navigation.app-main-36:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.android.navigation.app-main-36:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/drawable_rules.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/drawable/rules.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/layout_fragment_about.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/drawable_share.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/drawable/share.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/drawable_android.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/drawable/android.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/layout_fragment_game_won.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/layout/fragment_game_won.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.navigation.app-main-36:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/navigation_navigation.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/navigation/navigation.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/drawable_android_trivia.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/drawable/android_trivia.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/layout_activity_main.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/layout_fragment_rules.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/layout/fragment_rules.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/drawable_try_again.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/drawable/try_again.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/drawable_about_android_trivia.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/drawable/about_android_trivia.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/anim_slide_out_left.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/drawable_settings.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/drawable/settings.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/anim_slide_in_right.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/layout_fragment_game_over.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/layout/fragment_game_over.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/anim_slide_out_right.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

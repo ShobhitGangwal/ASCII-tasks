@@ -1,0 +1,91 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  ~ Copyright 2018, The Android Open Source Project
+4  ~
+5  ~ Licensed under the Apache License, Version 2.0 (the "License");
+6  ~ you may not use this file except in compliance with the License.
+7  ~ You may obtain a copy of the License at
+8  ~
+9  ~     http://www.apache.org/licenses/LICENSE-2.0
+10  ~
+11  ~ Unless required by applicable law or agreed to in writing, software
+12  ~ distributed under the License is distributed on an "AS IS" BASIS,
+13  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14  ~ See the License for the specific language governing permissions and
+15  ~ limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.android.navigation"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="19"
+23-->D:\App Dev Kotlin\Android-Trivia\app\src\main\AndroidManifest.xml
+24        android:targetSdkVersion="32" />
+24-->D:\App Dev Kotlin\Android-Trivia\app\src\main\AndroidManifest.xml
+25
+26    <application
+26-->D:\App Dev Kotlin\Android-Trivia\app\src\main\AndroidManifest.xml:21:5-37:19
+27        android:allowBackup="true"
+27-->D:\App Dev Kotlin\Android-Trivia\app\src\main\AndroidManifest.xml:22:9-35
+28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+28-->[androidx.core:core:1.5.0-rc01] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\962faa6c91905a3e105231e5be5caccc\transformed\core-1.5.0-rc01\AndroidManifest.xml:24:18-86
+29        android:debuggable="true"
+30        android:icon="@mipmap/ic_launcher"
+30-->D:\App Dev Kotlin\Android-Trivia\app\src\main\AndroidManifest.xml:23:9-43
+31        android:label="@string/app_name"
+31-->D:\App Dev Kotlin\Android-Trivia\app\src\main\AndroidManifest.xml:24:9-41
+32        android:roundIcon="@mipmap/ic_launcher_round"
+32-->D:\App Dev Kotlin\Android-Trivia\app\src\main\AndroidManifest.xml:25:9-54
+33        android:supportsRtl="true"
+33-->D:\App Dev Kotlin\Android-Trivia\app\src\main\AndroidManifest.xml:26:9-35
+34        android:testOnly="true"
+35        android:theme="@style/AppTheme" >
+35-->D:\App Dev Kotlin\Android-Trivia\app\src\main\AndroidManifest.xml:27:9-40
+36        <activity
+36-->D:\App Dev Kotlin\Android-Trivia\app\src\main\AndroidManifest.xml:28:9-36:20
+37            android:name="com.example.android.navigation.MainActivity"
+37-->D:\App Dev Kotlin\Android-Trivia\app\src\main\AndroidManifest.xml:29:13-41
+38            android:configChanges="orientation|screenSize|smallestScreenSize|screenLayout"
+38-->D:\App Dev Kotlin\Android-Trivia\app\src\main\AndroidManifest.xml:30:13-91
+39            android:exported="true" >
+39-->D:\App Dev Kotlin\Android-Trivia\app\src\main\AndroidManifest.xml:31:13-36
+40            <intent-filter>
+40-->D:\App Dev Kotlin\Android-Trivia\app\src\main\AndroidManifest.xml:32:13-35:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->D:\App Dev Kotlin\Android-Trivia\app\src\main\AndroidManifest.xml:33:17-69
+41-->D:\App Dev Kotlin\Android-Trivia\app\src\main\AndroidManifest.xml:33:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->D:\App Dev Kotlin\Android-Trivia\app\src\main\AndroidManifest.xml:34:17-77
+43-->D:\App Dev Kotlin\Android-Trivia\app\src\main\AndroidManifest.xml:34:27-74
+44            </intent-filter>
+45        </activity>
+46
+47        <uses-library
+47-->[androidx.window:window:1.0.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\a673b24143ad1d265014551e85a80c96\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+48            android:name="androidx.window.extensions"
+48-->[androidx.window:window:1.0.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\a673b24143ad1d265014551e85a80c96\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+49            android:required="false" />
+49-->[androidx.window:window:1.0.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\a673b24143ad1d265014551e85a80c96\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+50        <uses-library
+50-->[androidx.window:window:1.0.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\a673b24143ad1d265014551e85a80c96\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+51            android:name="androidx.window.sidecar"
+51-->[androidx.window:window:1.0.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\a673b24143ad1d265014551e85a80c96\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+52            android:required="false" />
+52-->[androidx.window:window:1.0.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\a673b24143ad1d265014551e85a80c96\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+53
+54        <provider
+54-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\6cfde749e042a0586fef3661d84acfbd\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+55            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+55-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\6cfde749e042a0586fef3661d84acfbd\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+56            android:authorities="com.example.android.navigation.lifecycle-process"
+56-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\6cfde749e042a0586fef3661d84acfbd\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+57            android:exported="false"
+57-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\6cfde749e042a0586fef3661d84acfbd\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+58            android:multiprocess="true" />
+58-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\6cfde749e042a0586fef3661d84acfbd\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+59    </application>
+60
+61</manifest>
