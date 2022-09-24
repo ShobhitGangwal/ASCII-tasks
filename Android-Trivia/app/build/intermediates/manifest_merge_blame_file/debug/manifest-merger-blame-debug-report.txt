@@ -30,7 +30,7 @@
 27        android:allowBackup="true"
 27-->D:\App Dev Kotlin\Android-Trivia\app\src\main\AndroidManifest.xml:22:9-35
 28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-28-->[androidx.core:core:1.5.0-rc01] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\962faa6c91905a3e105231e5be5caccc\transformed\core-1.5.0-rc01\AndroidManifest.xml:24:18-86
+28-->[androidx.core:core:1.5.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\947f2e4815403ef32ee0612913abd9f8\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
 29        android:debuggable="true"
 30        android:icon="@mipmap/ic_launcher"
 30-->D:\App Dev Kotlin\Android-Trivia\app\src\main\AndroidManifest.xml:23:9-43
@@ -64,28 +64,28 @@
 45        </activity>
 46
 47        <uses-library
-47-->[androidx.window:window:1.0.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\a673b24143ad1d265014551e85a80c96\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+47-->[androidx.window:window:1.0.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\435ebb7add49805569ace1b24460c11b\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
 48            android:name="androidx.window.extensions"
-48-->[androidx.window:window:1.0.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\a673b24143ad1d265014551e85a80c96\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+48-->[androidx.window:window:1.0.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\435ebb7add49805569ace1b24460c11b\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
 49            android:required="false" />
-49-->[androidx.window:window:1.0.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\a673b24143ad1d265014551e85a80c96\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+49-->[androidx.window:window:1.0.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\435ebb7add49805569ace1b24460c11b\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
 50        <uses-library
-50-->[androidx.window:window:1.0.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\a673b24143ad1d265014551e85a80c96\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+50-->[androidx.window:window:1.0.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\435ebb7add49805569ace1b24460c11b\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
 51            android:name="androidx.window.sidecar"
-51-->[androidx.window:window:1.0.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\a673b24143ad1d265014551e85a80c96\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+51-->[androidx.window:window:1.0.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\435ebb7add49805569ace1b24460c11b\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
 52            android:required="false" />
-52-->[androidx.window:window:1.0.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\a673b24143ad1d265014551e85a80c96\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+52-->[androidx.window:window:1.0.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\435ebb7add49805569ace1b24460c11b\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
 53
 54        <provider
-54-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\6cfde749e042a0586fef3661d84acfbd\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+54-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\bbd8a6d5d2b8c7f1dce66709747b3b9e\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
 55            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-55-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\6cfde749e042a0586fef3661d84acfbd\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+55-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\bbd8a6d5d2b8c7f1dce66709747b3b9e\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
 56            android:authorities="com.example.android.navigation.lifecycle-process"
-56-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\6cfde749e042a0586fef3661d84acfbd\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+56-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\bbd8a6d5d2b8c7f1dce66709747b3b9e\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
 57            android:exported="false"
-57-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\6cfde749e042a0586fef3661d84acfbd\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+57-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\bbd8a6d5d2b8c7f1dce66709747b3b9e\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
 58            android:multiprocess="true" />
-58-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\6cfde749e042a0586fef3661d84acfbd\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+58-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Shobhit Gangwal\.gradle\caches\transforms-3\bbd8a6d5d2b8c7f1dce66709747b3b9e\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
 59    </application>
 60
 61</manifest>

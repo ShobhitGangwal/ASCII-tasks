@@ -76,6 +76,10 @@
         "source": "com.example.android.navigation.app-main-36:/drawable/ic_launcher_background.xml"
     },
     {
+        "merged": "com.example.android.navigation.app-merged_res-34:/menu_overflow_menu.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/menu/overflow_menu.xml"
+    },
+    {
         "merged": "com.example.android.navigation.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "com.example.android.navigation.app-main-36:/mipmap-hdpi/ic_launcher_round.png"
     },
@@ -114,6 +118,10 @@
     {
         "merged": "com.example.android.navigation.app-merged_res-34:/drawable_android_trivia.xml.flat",
         "source": "com.example.android.navigation.app-main-36:/drawable/android_trivia.xml"
+    },
+    {
+        "merged": "com.example.android.navigation.app-merged_res-34:/menu_navdrawer_menu.xml.flat",
+        "source": "com.example.android.navigation.app-main-36:/menu/navdrawer_menu.xml"
     },
     {
         "merged": "com.example.android.navigation.app-merged_res-34:/layout_activity_main.xml.flat",

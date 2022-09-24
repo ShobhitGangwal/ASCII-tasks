@@ -1,4 +1,4 @@
-#Sun Sep 18 17:13:28 IST 2022
+#Sun Sep 25 00:21:11 IST 2022
 base.0=D\:\\App Dev Kotlin\\Android-Trivia\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
